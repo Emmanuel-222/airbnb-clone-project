@@ -46,9 +46,21 @@ The importance of a user-friendly design in this project:
 A user-friendly design in a booking system makes the process simple, fast, and smooth, helping users complete their bookings easily. It builds trust, reduces errors, improves accessibility, and leads to higher customer satisfaction and more successful bookings.
 
 
+✨ Project Style Guide
+Color Styles
+Color Name | Hex Code 
+Primary Color | #34967c
+Secondary Color | #161117
+Secondary Color | #FFA800
+Shimmer | #BEBEBE
 
+Text Style | Font Family | Font Weight | Font Size | Usage
+Heading 1 (H1) | Source Sans | 600 | 32px | Page titles
+Heading 2 (H2) | Source Sans | 600 | 24px | Section titles
+Heading 3 (H3) | Source Sans Pro | 600 | 20px | Sub-sections
+Body Text | Quicksand | 400 | 16px | Normal paragraph text
+Small Text | Quicksand | 400 | 14px | Labels, helper text
+Button Text | Quicksand | 600 | 16px | Buttons and CTAs
 
-
-
-
-
+The importance of identifying design properties of a mock-up design.
+Identifying design properties like colours, fonts, and spacing in a mockup is important because it ensures consistency, speeds up development, and helps maintain the original design vision. It also reduces guesswork, improves collaboration between designers and developers, and results in a more polished final product.
